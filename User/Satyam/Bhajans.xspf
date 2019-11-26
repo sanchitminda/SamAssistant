@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/NAVKAR%20MANTR%205%20MINTS.MP3</location>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>336334</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/PRABHU%20PATIT%20PAWAN%20MAIN%20APAWAN%20STUTI%20%20sanjeev%20jain%20%20www.stallonegroup.com.mp3</location>
+			<title>(mp3evo.com) - PRABHU PATIT PAWAN MAIN APAWAN STUTI  sanjeev jain  www.stallonegroup.com</title>
+			<creator>mp3evo.com</creator>
+			<album>mp3lio.com</album>
+			<annotation>mp3lio.com</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/mp3evo.com/mp3lio.com/art.png</image>
+			<duration>447731</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/shivtandav_u8hrmhh9.mp3</location>
+			<creator>Scorpion King</creator>
+			<album>Ring Tons</album>
+			<trackNum>911</trackNum>
+			<annotation>Scorpion King</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/Scorpion%20King/Ring%20Tons/art.jpg</image>
+			<duration>27932</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/shri%20krishna%20govind%20hare%20murari%20song%20mahabharat%20star%20plus.mp3</location>
+			<title>Shri Krishna Govind Hare Murari Song Mahabharat Star Plus</title>
+			<creator>mp3lio.com</creator>
+			<album>mp3hup.com</album>
+			<annotation>mp3hup.com</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/mp3lio.com/mp3hup.com/art.png</image>
+			<duration>124141</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/HE%20RAM%20HE%20RAM%205%20minats.MP3</location>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>321882</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+	</extension>
+</playlist>

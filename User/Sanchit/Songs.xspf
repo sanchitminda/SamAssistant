@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/Haal%20E%20Dil.mp3</location>
+			<title>Haal E Dil.mp3</title>
+			<album>Murder 2</album>
+			<annotation>                              </annotation>
+			<duration>348092</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/Haal%20Kaisa%20Hai%20Janab%20Ka.mp3</location>
+			<title>Haal Kaisa Hai Janab Ka.mp3</title>
+			<album>Chalti ka naam gadi</album>
+			<duration>266125</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/Haan%20Tu%20Hai%20--%20K.K..mp3</location>
+			<title>Haan Tu Hai.mp3</title>
+			<creator>K.K.</creator>
+			<album>Jannat</album>
+			<annotation>                              </annotation>
+			<duration>324866</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/Hai%20Apna%20Dil%20Toh%20Awara.mp3</location>
+			<title>Hai Apna Dil Toh Awara - Songspk.name</title>
+			<creator>Himesh Reshammiya, Yo Yo Honey Singh</creator>
+			<album>The Xpose (2014)</album>
+			<trackNum>3</trackNum>
+			<annotation>Songspk.name</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/Himesh%20Reshammiya%2C%20Yo%20Yo%20Honey%20Singh/The%20Xpose%20%282014%29/art.jpg</image>
+			<duration>264176</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/GOLMAAL(THEME)_00.mp3</location>
+			<title>GOLMAAL(THEME)_00</title>
+			<creator>08</creator>
+			<trackNum>8</trackNum>
+			<duration>198852</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/Golmaal-Title.mp3</location>
+			<title>Golmaal</title>
+			<creator>Golmaal</creator>
+			<album>Golmaal</album>
+			<duration>190177</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/Good%20Boy%20Bad%20Boy.mp3</location>
+			<title>Good Boy Bad Boy</title>
+			<creator>Himesh &amp; Akriti Kakar</creator>
+			<album>Good Boy Bad Boy [DJLUV]</album>
+			<duration>305039</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/GORE_GORE_O_BAKNE_CHORE___S.MP3</location>
+			<title>GORE_GORE_O_BAKNE_CHORE___S</title>
+			<duration>185556</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/GOVINDA%20AALA%20RE.mp3</location>
+			<title>Govinda Aala re</title>
+			<creator>RAFI - CHORUS</creator>
+			<album>Bluff Master</album>
+			<trackNum>1</trackNum>
+			<duration>346417</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/Grand%20Masti.mp3</location>
+			<title>Grand Masti - [H2906]</title>
+			<creator>Sanjeev Rathod, Darshan Rathod, Payal Dev,</creator>
+			<album>Grand Masti [2013]</album>
+			<trackNum>1</trackNum>
+			<annotation>Uploaded By [H2906] [Asian Torrenz]</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/Sanjeev%20Rathod%2C%20Darshan%20Rathod%2C%20Payal%20Dev%2C/Grand%20Masti%20%5B2013%5D/art.jpg</image>
+			<duration>258803</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/GULABI%20AANKHEN%20JO%20TERI%20DEKHI%20%7BTHE%20TRAIN%7D.mp3</location>
+			<title>GULABI AANKHEN JO TERI DEKHI.mp3</title>
+			<album>THE TRAIN</album>
+			<duration>207942</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+	</extension>
+</playlist>

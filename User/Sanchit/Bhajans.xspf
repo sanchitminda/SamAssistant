@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/01%20Jai%20Ganesh%20Deva.mp3</location>
+			<title>Track 1</title>
+			<creator>01 Jai Ganesh Deva</creator>
+			<album>CHALISA &amp; AARTIES</album>
+			<trackNum>5</trackNum>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>269533</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/01-mera%20aap%20ki%20krapa.mp3</location>
+			<title>mera aap ki krapa</title>
+			<creator>01</creator>
+			<annotation>                              </annotation>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>544843</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/02%20Jai%20Shiv%20Omkara.mp3</location>
+			<title>Track 2</title>
+			<creator>02 Jai Shiv Omkara</creator>
+			<album>CHALISA &amp; AARTIES</album>
+			<trackNum>6</trackNum>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>329641</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/04%20Om%20Jai%20Lakshmi%20Mata.mp3</location>
+			<title>Track 4</title>
+			<creator>04 Om Jai Lakshmi Mata</creator>
+			<album>CHALISA &amp; AARTIES</album>
+			<trackNum>6</trackNum>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>331809</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/06%20Jai%20Ambe%20Gauri.mp3</location>
+			<title>Track 6</title>
+			<creator>06 Jai Ambe Gauri</creator>
+			<annotation>                              </annotation>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>479009</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/07%20Om%20Jai%20Saraswati%20Mata.mp3</location>
+			<title>Track 7</title>
+			<creator>07 Om Jai Saraswati Mata</creator>
+			<annotation>                              </annotation>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>450509</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/08%20Aarti%20Kunj%20Bihari%20Ki.mp3</location>
+			<title>Track 8</title>
+			<creator>08 Aarti Kunj Bihari Ki</creator>
+			<album>Aarti</album>
+			<trackNum>8</trackNum>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>259294</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/09%20Jai%20Santoshi%20Mata.mp3</location>
+			<title>Track 9</title>
+			<creator>09 Jai Santoshi Mata</creator>
+			<annotation>                              </annotation>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>478226</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/11%20Om%20Jai%20Jagdish%20Hare.mp3</location>
+			<title>Track 11</title>
+			<creator>11 Om Jai Jagdish Hare</creator>
+			<album>CHALISA &amp; AARTIES</album>
+			<trackNum>6</trackNum>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>330738</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/12_PARASH%20JAYMALA.mp3</location>
+			<title>JAI PARAS DEVA </title>
+			<creator>Artist</creator>
+			<album>Album</album>
+			<trackNum>1</trackNum>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>434393</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/27_SHANTI%20PATH.mp3</location>
+			<title>line in track 03</title>
+			<creator>Artist</creator>
+			<album>Album</album>
+			<trackNum>3</trackNum>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>432786</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/44_%20MAHAVEER%20AMRITVANI.mp3</location>
+			<title>MAHAVEER AMRITVANI</title>
+			<creator>44</creator>
+			<annotation>                              </annotation>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>2927394</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/44_Mata%20Tu%20Daya%20Karke.mp3</location>
+			<title>Mata Tu Daya Karke</title>
+			<creator>Artist</creator>
+			<album>Album</album>
+			<trackNum>1</trackNum>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>420718</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/47_SAMME.mp3</location>
+			<title>SAMMED SHIKHAR KI AARTAI </title>
+			<creator>Artist</creator>
+			<album>Album</album>
+			<trackNum>5</trackNum>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>206841</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/48_JAY%20AADEESVAR%20KI.mp3</location>
+			<title>line in track 03</title>
+			<creator>Artist</creator>
+			<album>Album</album>
+			<trackNum>3</trackNum>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>500574</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/51_AARTI%20CHAUBIS%20BHAGVAN.mp3</location>
+			<title>line in track 01</title>
+			<creator>Artist</creator>
+			<album>Album</album>
+			<trackNum>1</trackNum>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>780607</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/53_TUM%20TARAN%20TARAN.mp3</location>
+			<title>line in track 03</title>
+			<creator>Artist</creator>
+			<album>Album</album>
+			<trackNum>3</trackNum>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>586778</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/55_PARBHU%20PATITA%20PAVAN.mp3</location>
+			<title>line in track 06</title>
+			<creator>Artist</creator>
+			<album>Album</album>
+			<trackNum>6</trackNum>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>225766</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/AE%20MAALIK%20TERE%20BANDE%20HUM.mp3</location>
+			<title>DO AANKHEN BARAH HAATH</title>
+			<creator>SADHANA SARGAM</creator>
+			<album>BHAJAN FROM FILMS</album>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>190981</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/AmritVani%2001.mp3</location>
+			<title>Track 04</title>
+			<creator>artist</creator>
+			<album>title</album>
+			<trackNum>4</trackNum>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>2672943</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/AmritVani2.mp3</location>
+			<title>Track 02</title>
+			<creator>artist</creator>
+			<album>title</album>
+			<trackNum>2</trackNum>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>53723</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/Amritvani%20_.mp3</location>
+			<title>Track 04</title>
+			<creator>artist</creator>
+			<album>title</album>
+			<trackNum>4</trackNum>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>541665</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/Choti%20Chhoti%20Gaiya.mp3</location>
+			<title>Track 02</title>
+			<creator>artist</creator>
+			<album>title</album>
+			<trackNum>2</trackNum>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>606545</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/DEEWANA%20RADHE%20KA.mp3</location>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>454661</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/GANESH%20MANTR%205%20MINTS.MP3</location>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>292458</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/HE%20RAM%20HE%20RAM%205%20minats.MP3</location>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>321882</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/Hanuman%20Ashtak.mp3</location>
+			<title>Hanuman Ashtak</title>
+			<creator>Artist</creator>
+			<album>Album</album>
+			<trackNum>2</trackNum>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>372670</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/Hanuman%20Chalisha.mp3</location>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>587990</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/NAVKAR%20MANTR%205%20MINTS.MP3</location>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>336334</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/OM%20Manglam.MP3</location>
+			<title>SIDE</title>
+			<creator>A</creator>
+			<annotation>                              </annotation>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>1405291</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/PRABHU%20PATIT%20PAWAN%20MAIN%20APAWAN%20STUTI%20%20sanjeev%20jain%20%20www.stallonegroup.com.mp3</location>
+			<title>(mp3evo.com) - PRABHU PATIT PAWAN MAIN APAWAN STUTI  sanjeev jain  www.stallonegroup.com</title>
+			<creator>mp3evo.com</creator>
+			<album>mp3lio.com</album>
+			<annotation>mp3lio.com</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/mp3evo.com/mp3lio.com/art.png</image>
+			<duration>447731</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/RADHE%20RADHE%20JAPO.MP3</location>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>699506</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/Yashomati%20Maiyya%20Se%20Bole%20Nandlala.MP3</location>
+			<title>Yashomati Maiyya Se Bole Nandlala</title>
+			<creator>Manish Tiwari</creator>
+			<album>Kabhi Makhan Churaliya...</album>
+			<annotation>We UNIX MUSIC COMPANY,
+5, Mahalaxmi Complex, Maharani Road
+INDORE (M.P.) Ph: +91-731-2530610</annotation>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>250626</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/achutam%20keshvam.mp3</location>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>349413</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/are%20dwar%20palo.mp3</location>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>492251</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/gAYATRI%20MANTRA.MP3</location>
+			<title>SIDE</title>
+			<creator>B</creator>
+			<annotation>                              </annotation>
+			<image>file:///E:/Desktop/Bhajans/Folder.jpg</image>
+			<duration>1816510</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/shivtandav_u8hrmhh9.mp3</location>
+			<creator>Scorpion King</creator>
+			<album>Ring Tons</album>
+			<trackNum>911</trackNum>
+			<annotation>Scorpion King</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/Scorpion%20King/Ring%20Tons/art.jpg</image>
+			<duration>27932</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Bhajans/shri%20krishna%20govind%20hare%20murari%20song%20mahabharat%20star%20plus.mp3</location>
+			<title>Shri Krishna Govind Hare Murari Song Mahabharat Star Plus</title>
+			<creator>mp3lio.com</creator>
+			<album>mp3hup.com</album>
+			<annotation>mp3hup.com</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/mp3lio.com/mp3hup.com/art.png</image>
+			<duration>124141</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:node title="Bhajans">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+			<vlc:item tid="36"/>
+			<vlc:item tid="37"/>
+		</vlc:node>
+	</extension>
+</playlist>

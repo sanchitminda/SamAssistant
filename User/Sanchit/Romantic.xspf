@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/%5BSongs.PK%5D%20Karthik%20Calling%20Karthik%20-%2001%20-%20Hey%20Ya!.mp3.TEMP.mp3</location>
+			<title>Hey Ya! - www.Songs.PK</title>
+			<creator>Clinton Cerejo, Shankar Mahadevan &amp; Loy Mendonsa</creator>
+			<album>Karthik Calling Karthik</album>
+			<trackNum>1</trackNum>
+			<duration>256930</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/%5BSongs.PK%5D%20Once%20Upon%20A%20Time%20In%20Mumbai%20-%2004%20-%20I%20Am%20In%20Love.mp3</location>
+			<title>I Am In Love - www.Songs.PK</title>
+			<creator>K.K. &amp; Dominique Cerejo</creator>
+			<album>Once Upon A Time In Mumbaai</album>
+			<trackNum>4</trackNum>
+			<annotation>www.Songs.PK</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/K.K.%20%26%20Dominique%20Cerejo/Once%20Upon%20A%20Time%20In%20Mumbaai/art.jpg</image>
+			<duration>287118</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/%5BSongs.PK%5D%20Once%20Upon%20A%20Time%20In%20Mumbai%20-%2007%20-%20Tum%20Jo%20Aaye%20(Reprise).mp3</location>
+			<title>Tum Jo Aaye (Reprise) - www.Songs.PK</title>
+			<creator>Rahat Fateh Ali Khan</creator>
+			<album>Once Upon A Time In Mumbaai</album>
+			<trackNum>7</trackNum>
+			<annotation>www.Songs.PK</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/Rahat%20Fateh%20Ali%20Khan/Once%20Upon%20A%20Time%20In%20Mumbaai/art.jpg</image>
+			<duration>270270</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/%5BSongs.PK%5D%20Paathshaala%20-%2001%20-%20Aye%20Khuda.mp3</location>
+			<title>Aye Khuda - www.Songs.PK</title>
+			<creator>Salim Merchant</creator>
+			<album>Paathshaala</album>
+			<trackNum>1</trackNum>
+			<annotation>www.Songs.PK</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/Salim%20Merchant/Paathshaala/art.jpg</image>
+			<duration>282809</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/%5BSongs.PK%5D%20Prince%20-%2001%20-%20O%20Mere%20Khuda.mp3</location>
+			<title>O Mere Khuda - www.Songs.PK</title>
+			<creator>Prince</creator>
+			<album>Prince</album>
+			<trackNum>1</trackNum>
+			<annotation>www.Songs.PK</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/Prince/Prince/art</image>
+			<duration>199661</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+	</extension>
+</playlist>

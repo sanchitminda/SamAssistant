@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/%5BSongs.PK%5D%2046%20-%20Mohit%20Chauhan%20-%20Ilahi.mp3</location>
+			<title>Ilahi - Songspk.name</title>
+			<creator>Mohit Chauhan</creator>
+			<album>Mohit Chauhan Best Of Me</album>
+			<trackNum>46</trackNum>
+			<annotation>www.Songspk.name</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/Mohit%20Chauhan/Mohit%20Chauhan%20Best%20Of%20Me/art</image>
+			<duration>201718</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/%5BSongs.PK%5D%20Ajab%20Prem%20Ki%20Ghazab%20Kahani%20-%2008%20-%20Tu%20Jaana%20Na%20%28Reprise%29.mp3</location>
+			<title>Tu Jaana Na (Reprise) - www.Songs.PK</title>
+			<creator>Soham, Rana Mazumdar &amp; Ashish Pandit</creator>
+			<album>Ajab Prem Ki Ghazab Kahani</album>
+			<trackNum>8</trackNum>
+			<annotation>www.Songs.PK</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/Soham%2C%20Rana%20Mazumdar%20%26%20Ashish%20Pandit/Ajab%20Prem%20Ki%20Ghazab%20Kahani/art</image>
+			<duration>333405</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/%5BSongs.PK%5D%20Band%20Baaja%20Baaraat%20-%2001%20-%20Ainvayi%20Ainvayi.mp3</location>
+			<title>Ainvayi Ainvayi - www.Songs.PK</title>
+			<creator>Salim Merchant &amp; Sunidhi Chauhan</creator>
+			<album>Band Baaja Baaraat</album>
+			<trackNum>1</trackNum>
+			<annotation>www.Songs.PK</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/Salim%20Merchant%20%26%20Sunidhi%20Chauhan/Band%20Baaja%20Baaraat/art</image>
+			<duration>270084</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/%5BSongs.PK%5D%20Band%20Baaja%20Baaraat%20-%2008%20-%20Ainvayi%20%28Dilli%20Club%20Mix%29.mp3</location>
+			<title>Ainvayi (Dilli Club Mix) - www.Songs.PK</title>
+			<creator>Master Saleem &amp; Sunidhi Chauhan</creator>
+			<album>Band Baaja Baaraat</album>
+			<trackNum>8</trackNum>
+			<annotation>www.Songs.PK</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/Master%20Saleem%20%26%20Sunidhi%20Chauhan/Band%20Baaja%20Baaraat/art</image>
+			<duration>227870</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+	</extension>
+</playlist>

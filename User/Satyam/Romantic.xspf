@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/%5BSongs.PK%5D%20Crook%20-%2002%20-%20Mere%20Bina.mp3</location>
+			<title>Mere Bina - www.Songs.PK</title>
+			<creator>Nikhil Dsouza</creator>
+			<album>Crook</album>
+			<trackNum>2</trackNum>
+			<annotation>www.Songs.PK</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/Nikhil%20Dsouza/Crook/art.jpg</image>
+			<duration>289627</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/%5BSongs.PK%5D%2001%20-%20Citylights%20-%20Muskurane.mp3</location>
+			<title>Muskurane - Songspk.name</title>
+			<creator>Arijit Singh</creator>
+			<album>Citylights (2014)</album>
+			<trackNum>1</trackNum>
+			<annotation>Tagged by cracked version of Tag&amp;Rename http://www.softpointer.com/tr.htm</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/Arijit%20Singh/Citylights%20%282014%29/art</image>
+			<duration>334423</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/%5BSongs.PK%5D%2001%20-%20Tere%20Hoke%20Rehengay.mp3</location>
+			<title>Tere Hoke Rehengay - Songspk.name</title>
+			<creator>Arijit Singh</creator>
+			<album>Raja Natwarlal (2014)</album>
+			<trackNum>1</trackNum>
+			<annotation>Songspk.name</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/Arijit%20Singh/Raja%20Natwarlal%20%282014%29/art.jpg</image>
+			<duration>243723</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/%5BSongs.PK%5D%2006%20-%20Heropanti%20-%20Tere%20Binaa.mp3</location>
+			<title>Tere Binaa - Songspk.name</title>
+			<creator>Mustafa Zahid</creator>
+			<album>Heropanti (2014)</album>
+			<trackNum>6</trackNum>
+			<annotation>Songspk.name</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/Mustafa%20Zahid/Heropanti%20%282014%29/art.jpg</image>
+			<duration>203259</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/%5BSongs.PK%5D%2006%20-%20Tere%20Hoke%20Rehengay%20(Reprise).mp3</location>
+			<title>Tere Hoke Rahengay (Reprise) - Songspk.name</title>
+			<creator>Shweta Pandit</creator>
+			<album>Raja Natwarlal (2014)</album>
+			<trackNum>6</trackNum>
+			<annotation>Songspk.name</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/Shweta%20Pandit/Raja%20Natwarlal%20%282014%29/art.jpg</image>
+			<duration>269296</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+	</extension>
+</playlist>

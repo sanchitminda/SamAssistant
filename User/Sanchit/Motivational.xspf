@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/iqbal1(www.songs.pk).mp3</location>
+			<title>Aashaayen</title>
+			<creator>www.songs.pk</creator>
+			<album>Iqbal</album>
+			<trackNum>1</trackNum>
+			<annotation>www.songs.pk</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/www.songs.pk/Iqbal/art</image>
+			<duration>260030</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/Allah_Ke_Bande-Kailash_Kher%5Bwww.Mp3MaD.Com%5D.mp3</location>
+			<title>Allah Ke Bande (RoyalJatt.Com)</title>
+			<creator>Kailash Kher (RoyalJatt.Com)</creator>
+			<album>Teri Ibaadat CD 1 (RoyalJatt.Com)</album>
+			<annotation>Downloaded From RoyalJatt.Com</annotation>
+			<image>file:///C:/Users/Sanchit/AppData/Roaming/vlc/art/artistalbum/Kailash%20Kher%20%28RoyalJatt.Com%29/Teri%20Ibaadat%20CD%201%20%28RoyalJatt.Com%29/art.jpg</image>
+			<duration>276723</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Desktop/Cleared%20Desktop/Songs/Bachna%20Ae%20Haseeno.mp3</location>
+			<title>Bachna Ae Haseeno</title>
+			<creator>Bachna Ae Haseeno</creator>
+			<album>Bachna Ae Haseeno</album>
+			<trackNum>7</trackNum>
+			<duration>211234</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+	</extension>
+</playlist>
